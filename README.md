@@ -1,2 +1,2 @@
-# <a href="https://devrailan.github.io/-property/">@property</a>
+# <a href="https://devrailan.github.io/-property/" Target="_blank">@property</a>
 Animação feita utilizando o @property do CSS3 link da documentação utilizada: https://developer.mozilla.org/en-US/docs/Web/CSS/@property
